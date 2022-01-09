@@ -18,8 +18,8 @@ spec:
         app: test-argo
     spec:
       containers:
-      - image: raj80dockerid/test:6
-        name: flaskdemo
+      - image: anantdockernew/testrepo
+        name: my-image
         resources: {}
 status: {}
 ---
